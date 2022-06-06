@@ -15,7 +15,7 @@ enum MyEnum {
  * Custom blocks
  */
 //% weight=100 color=#0fbc11 icon=""
-namespace custom {
+namespace ginobit {
     /**
       * TODO: Commands the Ginobot to move forward with speed x (0-100)
       * @param speed speed value (0-100), eg: 100
