@@ -18,7 +18,7 @@ GINOBOT_DEV_ID = 22
 Ginobot class used to control a Ginobot through Python
 """
 
-class Ginobot:
+class ginobit:
 
     def __init__(self):
 
