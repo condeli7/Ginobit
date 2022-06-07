@@ -11,8 +11,7 @@
         "custom.ts",
         "main.py",
         "main.ts",
-        "ginobit.py",
-        "ginobit.ts"
+        "Ginobot.py"
     ],
     "testFiles": [
         "test.ts"

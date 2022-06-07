@@ -11,13 +11,22 @@ enum speed {
 }
 
 //% weight=1000 color=#00AFF0 icon="\uf121"
-namespace ginobit {
+namespace Ginobot {
     /**
       * Commands the Ginobot to move forward with speed x (0-100)
       * @param x speed value (0-100), eg: 100
       */
     //% block="move forward at $x speed"
     export function move_forward(x: speed): void {
+        // Add code here
+    }
+
+    /**
+     * Commands the Ginobot to move forward with speed x (0-100)
+    * @param x speed value (0-100), eg: 100
+    */
+    //% block="set red $x"
+    export function set_RGB_front_red(x: string): void {
         // Add code here
     }
 
