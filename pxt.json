@@ -10,7 +10,9 @@
         "README.md",
         "custom.ts",
         "main.py",
-        "main.ts"
+        "main.ts",
+        "ginobit.py",
+        "ginobit.ts"
     ],
     "testFiles": [
         "test.ts"
