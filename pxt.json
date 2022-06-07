@@ -8,10 +8,7 @@
     },
     "files": [
         "README.md",
-        "custom.ts",
-        "main.py",
-        "main.ts",
-        "Ginobot.py"
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
